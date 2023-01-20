@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/esgarchitect2.asia/static/js/main.3e5968c1.chunk.js",
+    "runtime-main.js": "/esgarchitect2.asia/static/js/runtime-main.51d73f5c.js",
+    "static/css/2.671981f4.chunk.css": "/esgarchitect2.asia/static/css/2.671981f4.chunk.css",
+    "static/js/2.2b9dd6bb.chunk.js": "/esgarchitect2.asia/static/js/2.2b9dd6bb.chunk.js",
+    "index.html": "/esgarchitect2.asia/index.html",
+    "static/js/2.2b9dd6bb.chunk.js.LICENSE.txt": "/esgarchitect2.asia/static/js/2.2b9dd6bb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/esgarchitect2.asia/static/media/roboto-vietnamese-400-normal.3230f9b0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51d73f5c.js",
+    "static/css/2.671981f4.chunk.css",
+    "static/js/2.2b9dd6bb.chunk.js",
+    "static/js/main.3e5968c1.chunk.js"
+  ]
+}
